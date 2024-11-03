@@ -1,0 +1,4 @@
+# dotfiles
+## wezterm
+## starship
+## nvim
